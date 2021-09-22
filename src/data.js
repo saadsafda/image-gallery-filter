@@ -1,4 +1,4 @@
-export default [
+export default images [
 	{ id: '1', imageName: 'img1.jpeg', tag: 'free' },
 	{ id: '2', imageName: 'img2.jpeg', tag: 'new' },
 	{ id: '3', imageName: 'img3.jpeg', tag: 'pro' },
